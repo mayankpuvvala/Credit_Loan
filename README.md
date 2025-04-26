@@ -37,4 +37,9 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+## 🔍 Demo
+
+Check out the live demo of the **Credit Risk Evaluation App**:
+
+[![Watch the video](https://img.youtube.com/vi/2lfddmeXMqo/0.jpg)](https://www.youtube.com/watch?v=2lfddmeXMqo)
 
